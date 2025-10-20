@@ -11,7 +11,7 @@ Auto bunny hop plugin for Counter-Strike 1.6 CSDM servers, built using **ReAPI**
   - **Mod**: CSDM (Deathmatch)
 
 ## Description
-This plugin automatically performs bunny hop for players when they hold down the jump key (`Space`).
+This plugin automatically performs bunny hop for players.
 
 ## Requirements
   - AMX Mod X 1.9+
