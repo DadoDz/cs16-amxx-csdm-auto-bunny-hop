@@ -25,4 +25,4 @@ This plugin automatically performs bunny hop for players.
 5. Restart your server.
 
 ## Notice
-This is **not an original idea**, automatic bunny hop plugins already exist for Counter-Strike 1.6, however this version was written entirely by **DadoDz**, re-coded from scratch using **ReAPI** for better logic and optimization.
+This is **not an original idea**, automatic bunny hop plugins already exist for Counter-Strike 1.6, however this version was written entirely by **DadoDz**, re-coded using **ReAPI**.
